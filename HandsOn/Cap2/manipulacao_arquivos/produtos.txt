@@ -1,0 +1,6 @@
+Mouse
+Teclado
+Monitor
+MousePad
+Impressora
+Scanner
