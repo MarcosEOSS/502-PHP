@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cursos>
+
+	<curso preco="2100" periodo="sabado">
+		<id>500</id>
+		<nome>Desenvolvimento Web com PHP</nome>
+		<categoria>Desenvolvimento</categoria>
+	</curso>
+	<curso preco="2200" periodo="sabado">
+		<id>501</id>
+		<nome>Desenvolvimento PHP Orientado a Objetos</nome>
+		<categoria>PHP</categoria>
+	</curso>
+	<curso preco="2300" periodo="sabado">
+		<id>502</id>
+		<nome>Desenvolvimento Enterprise com PHP</nome>
+		<categoria>Desenvolvimento</categoria>
+	</curso>
+	
+	<curso preco="2400" periodo="sabado">
+		<id>450</id>
+		<nome>Linux Fundamentals in Cloud</nome>
+		<categoria>Linux</categoria>
+	</curso>
+
+	<curso preco="1500" periodo="noturno">
+		<id>605</id>
+		<nome>HTML5 com CSS3</nome>
+		<categoria>Desenvolvimento</categoria>
+	</curso>
+</cursos>
